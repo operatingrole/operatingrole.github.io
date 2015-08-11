@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://www,operatingrole.com.com'
+domain_name: 'http://www,operatingrole.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
