@@ -1,52 +1,15 @@
+name: Operating Role
+description: Insight from the trenches
+meta_description: "What does it take to be an operator?"
 
-# Syntax highlighting
-markdown:            redcarpet
-highlighter:         pygments
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://www,operatingrole.com.com'
+google_analytics: 'UA-XXXXXXXX-X'
 
-# Permalinks
-permalink:           /:title
-relative_permalinks: true
-
-# Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              en_us # eg. en_us
-name:				         Operating Role
-title:               Operating Role
-tagline:             'notes from the trenches'
-description:         'description'
-url:                 www.operatingrole.com
-rss:                 rss feed url
-baseurl:             '/'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              operatingrole # get it on https://disqus.com/admin/
-
-author:
-  name:           	 Nikolai Chowdhury
-  url:            	 nikolai.in
-  facebook:          username
-  twitter:           chowdhury
-  google_plus:       username
-  linkedin:          nikolaic
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
-
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
-
-# Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
-
-defaults:
-  -
-    scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "default"
+# Details for the RSS feed generator
+url:            'http://www.operatingrole.com'
+author:         '@chowdhury'
