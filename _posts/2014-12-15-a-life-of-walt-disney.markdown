@@ -23,7 +23,7 @@ As an animator and entrepreneur, Disney was particularly noted as a filmmaker an
 
 Disney died from lung cancer on December 15, 1966, in Burbank, California. He left behind a vast legacy, including numerous animated shorts and feature films produced during his lifetime; the company, parks, and animation studio that bear his name; and the California Institute of the Arts (CalArts).
 
-#### Childhood
+#### Growing Up
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
 
