@@ -2,10 +2,11 @@
 layout: post
 title: "What I’m Telling My Friends After 3 Months With The Apple Watch"
 published: true
-category: home
+categories: wearables, early adopter, apple
+excerpt_separator: <!--more-->
 ---
 
-It’s been about 3 months since Apple launched their first new device without Steve Jobs at the helm: the Apple Watch. Pre-orders went live on April 10th at 3am New York time and I didn’t want to miss the chance to get one of the first shipments. But there was a problem: I was already headed to London at that time. While I love Richard Branson, I wouldn’t jeopardize my odds at getting the watch by relying on transatlantic wifi. Luckily, I have a very understanding girlfriend. While flying to London Business School to take a class and complete my Columbia EMBA, she woke up in the middle of the night to secure me an Apple Watch in the first round of preorders. I’m a lucky guy.
+It’s been about 3 months since Apple launched their first new device without Steve Jobs at the helm: the Apple Watch. Pre-orders went live on April 10th at 3am New York time and I didn’t want to miss the chance to get one of the first shipments. But there was a problem: I was already headed to London at that time. <!--more-->While I love Richard Branson, I wouldn’t jeopardize my odds at getting the watch by relying on transatlantic wifi. Luckily, I have a very understanding girlfriend. While flying to London Business School to take a class and complete my Columbia EMBA, she woke up in the middle of the night to secure me an Apple Watch in the first round of preorders. I’m a lucky guy.
  
 Now that I’ve had the Apple Watch strapped to my wrist for 90+ days, I thought it was about time to answer the most common questions that come up when I talk with friends and colleagues who aren’t quite sure what to make of this new wearable.
  
