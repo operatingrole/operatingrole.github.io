@@ -1,4 +1,5 @@
 var gulp = require('gulp'),
+    deploy = require('gulp-gh-pages'),
     browserSync = require('browser-sync'),
     sass = require('gulp-ruby-sass'),
     autoprefixer = require('gulp-autoprefixer'),
@@ -96,4 +97,12 @@ gulp.task('watch', function() {
  */
 gulp.task('default', ['styles', 'thumbnails', 'browser-sync', 'watch'], function() {
 
+});
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+  return gulp.src("./dist/**/*")
+    .pipe(deploy())
 });
