@@ -11,6 +11,19 @@ body {
   }
 }
 
+@font-face {
+    font-family: 'varela_roundregular';
+    src: url('../images/varelaround-regular-webfont.eot');
+    src: url('../images/varelaround-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../images/varelaround-regular-webfont.woff2') format('woff2'),
+         url('../images/varelaround-regular-webfont.woff') format('woff'),
+         url('../images/varelaround-regular-webfont.ttf') format('truetype'),
+         url('../images/varelaround-regular-webfont.svg#varela_roundregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .brandLogo {
   background-image: url(../images/logo-white.svg);
   background-size: contain;
