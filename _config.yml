@@ -9,12 +9,12 @@ relative_permalinks: true
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
+locale:              en_us # eg. en_us
+name:				         Operating Role
+title:               Operating Role
+tagline:             'notes from the trenches'
 description:         'description'
-url:                 site url
+url:                 www.operatingrole.com
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -25,12 +25,12 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 Nikolai Chowdhury
+  url:            	 nikolai.in
   facebook:          username
-  twitter:           username
+  twitter:           chowdhury
   google_plus:       username
-  linkedin:          username
+  linkedin:          nikolaic
   dribbble:          username
   pinterest:         username
   kiva:              username
