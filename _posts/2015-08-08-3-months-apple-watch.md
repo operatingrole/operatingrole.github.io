@@ -2,7 +2,7 @@
 layout: post
 title: "What I’m Telling My Friends After 3 Months With The Apple Watch"
 published: true
-categories: wearables, early adopter, apple
+categories: wearables hardware apple
 excerpt_separator: <!--more-->
 ---
 
